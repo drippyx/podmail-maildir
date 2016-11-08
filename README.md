@@ -1,0 +1,2 @@
+# podmail-maildir
+readable
